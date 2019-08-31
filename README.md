@@ -9,7 +9,10 @@ The File Contains a Sql file called ``parking1_parking.sql`` import that as the 
 > PHP
 
 Change the credentials in the ```sqlconnect.php``` file:
+<br>
 ![Php](https://github.com/kunz398/Online-car-parking-detection-Using-Raspberry/blob/master/phpsql.png)
+
+
 > C#
 
 Change the credentials in the ```Form1.cs``` file:
