@@ -13,9 +13,9 @@ ECHO = 19
 GPIO.setup(TRIG,GPIO.OUT)
 GPIO.output(TRIG, 0)
 db = MySQLdb.connect(host="johnny.heliohost.org", # your host, usually localhost
-                       user="parking1_parking", # your username
-                       passwd="parking",  # your password
-                       db="parking1_parking")# name of the data base
+                       user="USERNAME", # your username
+                       passwd="PASSWORD",  # your password
+                       db="DB_NAME")# name of the data base
 
 while True:
   GPIO.setup(ECHO,GPIO.IN)

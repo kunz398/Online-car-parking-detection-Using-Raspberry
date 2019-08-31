@@ -22,3 +22,14 @@ E:\Coding stuffs\Online-car-parking-detection\C# software for Windows Pc Parking
 E:\Coding stuffs\Online-car-parking-detection\C# software for Windows Pc Parking App\Parking\Parking\obj\Debug\Parking.Form1.resources
 E:\Coding stuffs\Online-car-parking-detection\C# software for Windows Pc Parking App\Parking\Parking\obj\Debug\Parking.Properties.Resources.resources
 E:\Coding stuffs\Online-car-parking-detection\C# software for Windows Pc Parking App\Parking\Parking\obj\Debug\Parking.csproj.GenerateResource.Cache
+C:\Users\kunal\Desktop\Github\Online-car-parking-detection\C# software for Windows Pc Parking App\Parking\Parking\bin\Debug\Parking.exe.config
+C:\Users\kunal\Desktop\Github\Online-car-parking-detection\C# software for Windows Pc Parking App\Parking\Parking\obj\Debug\Parking.exe
+C:\Users\kunal\Desktop\Github\Online-car-parking-detection\C# software for Windows Pc Parking App\Parking\Parking\obj\Debug\Parking.pdb
+C:\Users\kunal\Desktop\Github\Online-car-parking-detection\C# software for Windows Pc Parking App\Parking\Parking\bin\Debug\Parking.exe
+C:\Users\kunal\Desktop\Github\Online-car-parking-detection\C# software for Windows Pc Parking App\Parking\Parking\bin\Debug\Parking.pdb
+C:\Users\kunal\Desktop\Github\Online-car-parking-detection\C# software for Windows Pc Parking App\Parking\Parking\bin\Debug\MySql.Data.dll
+C:\Users\kunal\Desktop\Github\Online-car-parking-detection\C# software for Windows Pc Parking App\Parking\Parking\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\kunal\Desktop\Github\Online-car-parking-detection\C# software for Windows Pc Parking App\Parking\Parking\obj\Debug\Parking.csprojResolveAssemblyReference.cache
+C:\Users\kunal\Desktop\Github\Online-car-parking-detection\C# software for Windows Pc Parking App\Parking\Parking\obj\Debug\Parking.Form1.resources
+C:\Users\kunal\Desktop\Github\Online-car-parking-detection\C# software for Windows Pc Parking App\Parking\Parking\obj\Debug\Parking.Properties.Resources.resources
+C:\Users\kunal\Desktop\Github\Online-car-parking-detection\C# software for Windows Pc Parking App\Parking\Parking\obj\Debug\Parking.csproj.GenerateResource.Cache

@@ -5,9 +5,9 @@
 // exit();
 // }
 $host = "johnny.heliohost.org";
-$username = "kunz398_parking";
-$password = "kunal123";
-$db = "kunz398_parking1_parking";
+$username = "ENTER USER NAME";
+$password = "ENTER PASS";
+$db = "ENTER DB NAME";
 
 
 
@@ -18,31 +18,6 @@ if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
 
-/*DBname:u145310258_droid
-User:u145310258_droid
-Host:mysql.hostinger.in
-Password:droid123*/
-      //$con = mysqli_connect("johnny.heliohost.org", "parking1_parking", "parking", "parking1_parking");
- /*JSON ARRAY
-       $response = array();
 
-   $sql_city = "SELECT * FROM parkinglot ";
-     $result = $con->query($sql_city);
-     if ($result->num_rows > 0)
-     { //checks if city exists (in db)
-        while($row = $result->fetch_assoc())
-           {
-               $response['result'] []=
-               [
-                   'success' => true,
-                   'location' => $row["location"],
-                   'parked' => $row["parked"]
-               ];
-           }//while end
-     }
-
-  echo json_encode($response,JSON_UNESCAPED_SLASHES);
-
-  */
 
 ?>

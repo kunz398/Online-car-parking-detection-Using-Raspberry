@@ -39,7 +39,7 @@ namespace Parking
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            connString = "SERVER=johnny.heliohost.org;PORT=3306;DATABASE=kunz398_parking1_parking;UID=kunz398_parking;PASSWORD=kunal123;";
+            connString = "SERVER=johnny.heliohost.org;PORT=3306;DATABASE=ENTERDB;UID=ENTERUSERNAME;PASSWORD=ENTERPASSWORD;";
             //connString = "SERVER=localhost;PORT=3306;DATABASE=parking1_parking;UID=root;PASSWORD=;";
 
             try
