@@ -1,0 +1,24 @@
+c:\users\kunz\documents\visual studio 2015\Projects\Parking\Parking\bin\Debug\Parking.exe.config
+C:\Users\kunz\documents\visual studio 2015\Projects\Parking\Parking\bin\Debug\Parking.exe
+C:\Users\kunz\documents\visual studio 2015\Projects\Parking\Parking\bin\Debug\Parking.pdb
+C:\Users\kunz\documents\visual studio 2015\Projects\Parking\Parking\bin\Debug\MySql.Data.dll
+C:\Users\kunz\documents\visual studio 2015\Projects\Parking\Parking\obj\Debug\Parking.csprojResolveAssemblyReference.cache
+C:\Users\kunz\documents\visual studio 2015\Projects\Parking\Parking\obj\Debug\Parking.Form1.resources
+C:\Users\kunz\documents\visual studio 2015\Projects\Parking\Parking\obj\Debug\Parking.Properties.Resources.resources
+C:\Users\kunz\documents\visual studio 2015\Projects\Parking\Parking\obj\Debug\Parking.csproj.GenerateResource.Cache
+C:\Users\kunz\documents\visual studio 2015\Projects\Parking\Parking\obj\Debug\Parking.exe
+C:\Users\kunz\documents\visual studio 2015\Projects\Parking\Parking\obj\Debug\Parking.pdb
+C:\Users\kunz\documents\visual studio 2015\Projects\Parking\Parking\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\kunz\documents\visual studio 2015\Projects\Parking\Parking\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\Coding stuffs\Online-car-parking-detection\C# software for Windows Pc Parking App\Parking\Parking\bin\Debug\Parking.exe.config
+E:\Coding stuffs\Online-car-parking-detection\C# software for Windows Pc Parking App\Parking\Parking\obj\Debug\Parking.exe
+E:\Coding stuffs\Online-car-parking-detection\C# software for Windows Pc Parking App\Parking\Parking\obj\Debug\Parking.pdb
+E:\Coding stuffs\Online-car-parking-detection\C# software for Windows Pc Parking App\Parking\Parking\bin\Debug\Parking.exe
+E:\Coding stuffs\Online-car-parking-detection\C# software for Windows Pc Parking App\Parking\Parking\bin\Debug\Parking.pdb
+E:\Coding stuffs\Online-car-parking-detection\C# software for Windows Pc Parking App\Parking\Parking\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\Coding stuffs\Online-car-parking-detection\C# software for Windows Pc Parking App\Parking\Parking\bin\Debug\MySql.Data.dll
+E:\Coding stuffs\Online-car-parking-detection\C# software for Windows Pc Parking App\Parking\Parking\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\Coding stuffs\Online-car-parking-detection\C# software for Windows Pc Parking App\Parking\Parking\obj\Debug\Parking.csprojResolveAssemblyReference.cache
+E:\Coding stuffs\Online-car-parking-detection\C# software for Windows Pc Parking App\Parking\Parking\obj\Debug\Parking.Form1.resources
+E:\Coding stuffs\Online-car-parking-detection\C# software for Windows Pc Parking App\Parking\Parking\obj\Debug\Parking.Properties.Resources.resources
+E:\Coding stuffs\Online-car-parking-detection\C# software for Windows Pc Parking App\Parking\Parking\obj\Debug\Parking.csproj.GenerateResource.Cache

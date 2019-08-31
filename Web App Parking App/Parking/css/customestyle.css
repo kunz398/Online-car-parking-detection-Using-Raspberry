@@ -1,0 +1,228 @@
+﻿body
+{
+    padding-top:70px;
+}
+.navbar-fixed-top1 {
+    margin-top: -70px;
+    border-width: 0 0 1px;
+}
+
+#footer {
+    position: fixed;
+    right: 0;
+    bottom: 0px;
+    left: 0;
+    padding: 5px;
+    background-color: #efefef;
+    text-align: center;
+}
+
+.center-page
+{
+width:300px;
+height:300px;
+position:absolute;
+
+top:0;
+bottom:0;
+left:0;
+right:0;
+
+margin:auto;
+}
+
+.sapce-vert
+{
+    margin-top:20px;
+}
+
+
+#defpgbg
+{ /*default aspx*/
+            background-image: url(../images/bg3.jpg);
+            background-repeat: round;
+    
+}
+ /* vincent made changes here*/
+#aboutpgbg
+{
+    background-image: url(../images/background_aboutus_page.jpg);
+    background-repeat: no-repeat;
+    }
+    
+#musicpgbg
+{
+    background-image: url(../images/bg2.jpeg);
+    background-repeat: no-repeat;
+    }
+    
+#userhome_pgbg
+{
+    background-image: url(../images/bg3.jpg);
+    background-repeat: round;
+    }
+
+#news_pgbg
+{
+    background-image: url(../images/bg5.jpg);
+    background-repeat: round;
+    }
+    
+#dicussion_pgbg
+{
+    background-image: url(../images/bg4.jpg);
+    background-repeat: round;
+}   
+
+
+
+@import url(//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css);
+
+.detailBox {
+    width:320px;
+    border:1px solid #bbb;
+    margin:50px;
+}
+.titleBox {
+    background-color:#fdfdfd;
+    padding:10px;
+}
+.titleBox label{
+  color:#444;
+  margin:0;
+  display:inline-block;
+}
+
+.commentBox {
+    padding:10px;
+    border-top:1px dotted #bbb;
+}
+.commentBox .form-group:first-child, .actionBox .form-group:first-child {
+    width:80%;
+}
+.commentBox .form-group:nth-child(2), .actionBox .form-group:nth-child(2) {
+    width:18%;
+}
+.actionBox .form-group * {
+    width:100%;
+}
+.taskDescription {
+    margin-top:10px 0;
+}
+.commentList {
+    padding:0;
+    list-style:none;
+    max-height:200px;
+    overflow:auto;
+}
+.commentList li {
+    margin:0;
+    margin-top:10px;
+}
+.commentList li > div {
+    display:table-cell;
+}
+.commenterImage {
+    width:30px;
+    margin-right:5px;
+    height:100%;
+    
+}
+
+.commenterImage img {
+     width: 81px;
+    height: 69px;
+}
+.commentText p {
+    margin:0;
+}
+.sub-text {
+    color:#aaa;
+    font-family:verdana;
+    font-size:11px;
+}
+.actionBox {
+    border-top:1px dotted #bbb;
+    padding:10px;
+}
+
+
+.about_us_image
+{
+    border-radius: 18%;
+    width: 200px;
+    height: 200px;
+}
+
+/*user dp*/
+ .circle-avatar
+ {
+
+    /* make it responsive */
+    max-width: 100%;
+    width:100%;
+    height:auto;
+    
+
+     border-radius:50%;
+    
+    /* Centering on image`s center*/
+    background-position-y: center;
+    background-position-x: center;
+
+      /* it makes the clue thing, takes smaller dimention to fill div */
+     background-size: cover;
+ }
+
+ .circle-avatarsearch
+ {
+
+    /* make it responsive */
+    
+    
+    
+    
+
+     border-radius:50%;
+    
+    /* Centering on image`s center*/
+    background-position-y: center;
+    background-position-x: center;
+
+      /* it makes the clue thing, takes smaller dimention to fill div */
+     background-size: cover;
+ }
+
+
+
+
+
+
+
+/* vin making changes again */
+
+.userhome_image
+{
+    border-radius: 18%;
+    width: 200px;
+    height: 200px;
+}
+
+.reply_text
+{
+    font-size:14px;
+}
+
+.latest_news_writer
+{
+    font-size:7px;
+}
+
+.latest_news_article
+{
+    word-wrap: break-word;
+}
+#discusion_text
+{
+    word-wrap: break-word;
+}
